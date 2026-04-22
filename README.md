@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I am a developer who loves building user-centric, high-performance applications. Whether I'm designing seamless web interfaces, crafting cross-platform mobile applications, I thrive on solving complex problems and creating beautiful UIs. 
+I am a developer who loves building user-centric, high-performance applications. Whether I'm designing seamless web interfaces or crafting cross-platform mobile applications, I thrive on solving complex problems and creating beautiful UIs. 
 
 - 🔭 **Currently working on:** Storis - Audible Bedroom Stories
 - 🌱 **Currently deepening my knowledge in:** Flutter and Dart 💙
@@ -27,7 +27,6 @@ I am a developer who loves building user-centric, high-performance applications.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  
   
   <br>
   <p><strong>Mobile</strong></p>
@@ -57,13 +56,12 @@ I am a developer who loves building user-centric, high-performance applications.
 
 <div align="center">
   <a href="https://github.com/fczajka">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fczajka&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fczajka&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/fczajka">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fczajka&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
-</a>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=fczajka&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </div>
-
 
 ### 📫 Let's Connect!
 
