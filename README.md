@@ -60,9 +60,6 @@ I am a developer who loves building user-centric, high-performance applications.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fczajka&show_icons=true&theme=material-palenight&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/fczajka">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fczajka&layout=compact&theme=material-palenight&hide_border=true" alt="Top Languages" />
-  </a>
-  <a href="https://github.com/fczajka">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fczajka&theme=material-palenight&hide_border=true" alt="GitHub Streak" />
 </a>
 </div>
